@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="CommonModule.MRS_ЕГАИС" id="c0fd7ee9-93e9-499b-b3d1-0e15f4abfb31" configVersion="9786d79f8cb48a980844bbea2e161973025053bb"/>
+		<Metadata name="CommonModule.MRS_ЕГАИС.Module" id="c0fd7ee9-93e9-499b-b3d1-0e15f4abfb31.0" configVersion="46f94d1551935a519a8b90324a5995fb30fb1b24"/>
+		<Metadata name="Configuration.MRS_FIX" id="b399635a-18e7-4bdf-bbaf-ceb709a19bd7" configVersion="981d3bb51472e666abbdeb6169ed4ec7d1bd56cd"/>
+		<Metadata name="Language.Русский" id="2bd1496a-69ff-43e5-bc8f-e97e2941fc86" configVersion="36b37ba570ce374e1ef5536b5891644c6d5dc0a0"/>
+		<Metadata name="Role.MRS_ОсновнаяРоль" id="bebf7b8d-0000-4aba-abcf-06189046d92f" configVersion="61ac61e1126a72b8d44c475fee832e7437ea2788"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
